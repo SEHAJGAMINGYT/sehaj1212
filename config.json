@@ -1,0 +1,9 @@
+{
+	"ip":"CrownSMPYT.aternos.me",
+	"port": 54888,
+	"name": "afkbot2",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (SEHAJ2771) ",
+	"login-cmd":"/login (SEHAJ2771)"
+}
